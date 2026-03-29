@@ -38,6 +38,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -92,4 +93,8 @@
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SaiSrinath0712/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
